@@ -24,7 +24,8 @@ TopazAakal/TopazAakal is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/topaz-aakal/)
+Visit my LinkedIn:
+[![Linkedin Badge](https://img.shields.io/badge/-TopazAakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/topaz-aakal/)](https://www.linkedin.com/in/topaz-aakal/)
 
 ## ⚡ Technologies
 
@@ -38,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopazAakal=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topazaakal5@gmail.com=TeX&layout=compact)
