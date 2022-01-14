@@ -38,6 +38,4 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopazAakal=TeX&layout=compact)
